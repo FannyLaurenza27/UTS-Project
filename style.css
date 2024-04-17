@@ -1,0 +1,30 @@
+body {
+    
+    background: rgb(230, 153, 179);
+    border: dashed;
+    }
+
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+
+#deskripsi{
+    background-color: LightSkyBlue;
+    padding: 10px;
+    border: 15px solid black;
+    border: double;
+    padding-top: 20px;
+    }
+
+#pictures img {
+    width: 200px; 
+    height: 200px; 
+    border: 8px solid hotpink;
+    border-radius: 50%;
+    }
+
+img{
+    width: 1000px; 
+    height: 500px; 
+    }
